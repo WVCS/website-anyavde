@@ -1,3 +1,15 @@
 body {
-
+  font-family: system-ui;
+  background: lightpink;
+ 
+}
+h3{
+  color: white;
+  text-align: center;
+  font-size: 45px
+   
+}
+img{
+  width:100px
+   
 }
