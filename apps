@@ -1,5 +1,17 @@
 <html>
-
+<nav>
+<li><a href= "index.html"> HOME </a></li>
+<li><a href= "myapps.html"> HOME </a></li>
+</nav>
+<br>
+<head>
+<link rel="stylesheet" href="stytle.css">
+</head>
+<br>
+<body>
+<center>
+<h3> Anya's Website </h3>
+<br>
 <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/U6n2FGl6teDSvvW8WUvnWXr7GfJmV3OcQX9yQjcPdo4/embed"></iframe>
       <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/OCZ2dlSpJQlfvhgUTBA_uhV1mHcEv0enrOLya0hzhOg/embed?nosource"></iframe>
       <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/k6l_qCD7_p7KlCxrYSP5HZHE5UzJ6z-P2-NZ1voYaCk/embed"></iframe>
